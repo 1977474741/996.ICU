@@ -73,3 +73,4 @@
 | ![](https://github.com/ame017/AMEGetterMaker/blob/master/intro/introduce.png?raw=true) | [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | [Github-AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | (Xcode)一个无需resign的Xcode懒加载生成器 |
 | ![](https://github.com/ame017/AMECategoryMaker/blob/master/Display/ACM-introduce.png) | [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | [Github-AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | (Xcode)一个无需resign的Xcode category生成器 |
 | - | [Hikyuu](https://github.com/fasindog/hikyuu) | https://github.com/fasiondog/hikyuu | Hikyuu Quant Framework是一款基于C++/Python的高性能开源量化交易研究框架，用于策略分析及回测 |
+| <img src="https://raw.githubusercontent.com/1977474741/image-cropper/dev/image/code.jpg?v=1" width="100"> | [image-cropper](https://github.com/wx-plugin/image-cropper)|https://github.com/wx-plugin/image-cropper| 一款功能强大的微信小程序图片裁剪插件 |
